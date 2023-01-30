@@ -7,7 +7,7 @@
 .body {
     background-color: #d9dcd6;
 }
-
+  /* display properties were applied in attempt to get the header to go all the way across the top of the page without success.*/  
 .header {
     padding: 20px;
     display:inline-block;
@@ -27,7 +27,7 @@
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* justify content was applied to header to try to fix the position of header background.*/
 .header {
     padding-top: 15px;
     margin-right: 20px;
@@ -176,7 +176,7 @@ p {
 .online-reputation-management img {
     max-height: 200px;
 }
-
+/* Img would not follow suite for some reason. Determined to be oversized and mis-aligned. I added more specific size containment and positioning details.*/
 .social-media-marketing img {
     height: 200px;
     width: 300px;
@@ -193,7 +193,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* after editing out <div> this portion of the webpage needed more spefic alignment and position properties apllied. Without the inline-block display the <p> drops to the bottom of oversized accompanying Img and the font changes*/
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
