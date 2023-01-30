@@ -1,7 +1,7 @@
 ## Refactor Web Marketing Challenge 01
 
 ## Description
-This project was an excerise to enhance an existing webpage by consodilating elements in HTML and adjusting the CSS properties. The updates to the code are meant to provide increased accessabilty and readabilty for future colaborators. During the process of refactoring I had the opportunity to apply newly aquired skills in HTML semantic layout, and CSS styling techniques.
+This project was an exercise to enhance an existing webpage by consodilating elements in HTML and adjusting the CSS properties. The updates to the code are meant to provide increased accessabilty and readabilty for future colaborators. During the process of refactoring I had the opportunity to apply newly aquired skills in HTML semantic layout, and CSS styling techniques.
 
 ## Usage
 The webpage has internal links to specific information about the Web Marketing Company, click the links to explore content details.
