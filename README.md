@@ -4,7 +4,8 @@
 This project was an exercise to enhance an existing webpage by consodilating elements in HTML and adjusting the CSS properties. The updates to the code are meant to provide increased accessabilty and readabilty for future collaborators. During the process of refactoring I had the opportunity to apply newly aquired skills in HTML semantic layout, and CSS styling techniques.
 
 ## Usage
-The webpage has internal links to specific information about the Web Marketing Company, click the links to explore content details.
+The webpage has internal links to specific information about the Web Marketing Company, click the links to explore content details. https://catsink.github.io/Refactor-Web-Marketing/
+To view a Screenshot of live deployment:
 https://drive.google.com/file/d/1bQS4HcD4z_i4E_9YrHSVWLF_gY0vYW8g/view
 
 ## Credits
